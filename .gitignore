@@ -1,0 +1,7 @@
+virt/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+main/media/
